@@ -1,2 +1,5 @@
-# social-proof-section-master-Fronend-Mentor
-Repositorio para publicar desafio social proof section-master de frontend mentor
+# Frontend Mentor - Social proof section
+
+![Design preview for the Social proof section coding challenge](./design/desktop-preview.jpg)
+
+## Welcome! 👋
